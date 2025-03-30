@@ -1,7 +1,7 @@
 #pragma once
 #include<bits/stdc++.h>
-using namespace std;
-
+using namespace std
+///aaaaaaaa
 class NgayThangNam
 {
 private:
